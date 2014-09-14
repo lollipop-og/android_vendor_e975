@@ -46,6 +46,8 @@ PRODUCT_COPY_FILES += \
     vendor/lge/e975/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/lge/e975/proprietary/bin/usbhub:system/bin/usbhub \
     vendor/lge/e975/proprietary/bin/usbhub_init:system/bin/usbhub_init \
+    vendor/lge/e975/proprietary/bin/fm_qsoc_patches:system/bin/fm_qsoc_patches \
+    vendor/lge/e975/proprietary/bin/fmconfig:system/bin/fmconfig \
     vendor/lge/e975/proprietary/etc/firmware/dxhdcp2.b00:system/etc/firmware/dxhdcp2.b00 \
     vendor/lge/e975/proprietary/etc/firmware/dxhdcp2.b01:system/etc/firmware/dxhdcp2.b01 \
     vendor/lge/e975/proprietary/etc/firmware/dxhdcp2.b02:system/etc/firmware/dxhdcp2.b02 \
